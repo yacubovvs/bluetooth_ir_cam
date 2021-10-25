@@ -18,3 +18,5 @@ For your device change bluetooth address in the file [ir_cam_android/app/src/mai
 
 <img alt="ir camera android app" src="docs/android_app_1.jpg" max-width="250">
 <img alt="ir camera android app" src="docs/android_app_2.jpg" max-width="250">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n9mBcSK_jvs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
